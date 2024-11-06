@@ -1,0 +1,13 @@
+.cadastro-titulo{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+    
+}
+
+.titulo-card{
+    display: flex;
+    justify-content: center;
+}
